@@ -1,0 +1,18 @@
+{
+    "name": "asus/laminas_test",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "Asus\\LaminasTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ma-git",
+            "email": "ma.akhaleghi@gmail.com"
+        }
+    ],
+    "require": {
+        "laminas/laminas-db": "^2.15"
+    }
+}
